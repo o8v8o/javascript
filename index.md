@@ -10,7 +10,10 @@
   <script src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
 </head>
 <body>
+<script>
 
+alert("huang");
+</script>
 <div class="jumbotron text-center">
   <h1>我的第一个 Bootstrap 页面</h1>
   <p>重置浏览器大小查看效果!</p> 
